@@ -1,3 +1,7 @@
+/**
+ * @author safak
+ * 
+ */
 public class SharedData 
 {
 	private int [] array;
@@ -14,7 +18,7 @@ public class SharedData
 	public boolean[] getWinArray() 
 	{
 		return winArray;
-	}
+	} 
 
 	public void setWinArray(boolean [] winArray) 
 	{
