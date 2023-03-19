@@ -1,7 +1,3 @@
-/**
- * @author safak
- * 
- */
 public class SharedData 
 {
 	private int [] array;
